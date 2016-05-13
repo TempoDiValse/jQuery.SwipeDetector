@@ -2,6 +2,7 @@
 Detect Swipe Event on Mobile for jQuery
 
 Swipe 방향이 어느 방향인지를 알려줍니다.
+
 	사용방법:
 		- 초기화
 		$(OBJECT).detect({ JSON }); or $(OBJECT).detect();
